@@ -21,6 +21,6 @@ faculty in the greater LA area.
 I'm LA born and raised, and completed my undergraduate studies  
 <br>
 at UCLA in 2018.  
+<img src="images/viterbi.jpg" alt="USC" align="middle">
 </body>
 </center>
-![](/images/viterbi.jpg)
