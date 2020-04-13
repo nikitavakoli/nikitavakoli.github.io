@@ -26,5 +26,5 @@ at UCLA in 2018.
 <br>
 <br>
 <center>
-<img src="images/viterbi.jpg" alt="USC">
+<img src="images/viterbi.jpg" alt="USC2">
 </center>
