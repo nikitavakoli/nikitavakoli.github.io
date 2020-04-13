@@ -4,6 +4,6 @@ permalink: /projects/
 title: "My Projects"
 author_profile: true
 header:
-  image: "/images/dtlanew.jpg"
+  image: "/images/newsamo.jpg"
 ---
 <h2>Coming Soon</h2>
