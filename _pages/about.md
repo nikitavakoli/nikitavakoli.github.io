@@ -5,7 +5,7 @@ header:
   image: "/images/samo.jpg"
 ---
 # Who am I?
-
+<center>
 I'm a graduate student at the University of Southern California studying
 Biomedical Engineering with an emphasis in Data Analytics.  
 
@@ -14,3 +14,4 @@ and and also involved with STEM outreach through USC's Engineering
 faculty in the greater LA area.  
 I'm LA born and raised, and completed my undergraduate studies  
 at UCLA in 2018.  
+</center>
