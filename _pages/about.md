@@ -7,9 +7,10 @@ header:
 # Who am I?
 
 I'm a graduate student at the University of Southern California studying
-Biomedical Engineering with an emphasis in Data Analytics. I'm currently
-a Data Science Intern in the tech hub of Santa Monica, CA and and also
-involved with STEM outreach through USC's Engineering faculty in the
-greater LA area.
-I'm LA born and raised, and completed my undergraduate studies
+Biomedical Engineering with an emphasis in Data Analytics.  
+
+I'm currently a Data Science Intern in the tech hub of Santa Monica, CA  
+and and also involved with STEM outreach through USC's Engineering  
+faculty in the greater LA area.  
+I'm LA born and raised, and completed my undergraduate studies  
 at UCLA in 2018.  
