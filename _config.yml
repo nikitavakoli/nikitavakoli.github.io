@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bioengineering & Analytics Graduate Student"
   location         : "Los Angeles, CA"
-  email            : "nikitava@usc.edu"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -108,6 +108,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-LinkedIn"
+      url: "https://www.linkedin.com/in/nikitava/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/nikitavak0li"
