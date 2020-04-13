@@ -4,5 +4,5 @@ permalink: /projects/
 title: "Projects Posts by Tags"
 author_profile: true
 header:
-  image: "/images/trees.jpg"
+  image: "/images/dtlanew.jpg"
 ---
