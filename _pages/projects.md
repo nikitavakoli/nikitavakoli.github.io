@@ -6,4 +6,4 @@ author_profile: true
 header:
   image: "/images/dtlanew.jpg"
 ---
-<h1>Coming Soon</h1>
+<h2>Coming Soon</h2>
