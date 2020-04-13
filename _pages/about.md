@@ -23,3 +23,4 @@ I'm LA born and raised, and completed my undergraduate studies
 at UCLA in 2018.  
 </body>
 </center>
+![](/images/viterbi.jpg)
