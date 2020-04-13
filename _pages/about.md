@@ -30,5 +30,5 @@ at UCLA in 2018.
 </p>
 <br>
 <center>
-<a href="\images\Resume.pdf" style="color:red">Click here for my Resume</a>
+<a href="\images\Resume.pdf" style="color:red, font-weight:bold">Click here for my Resume</a>
 </center>
