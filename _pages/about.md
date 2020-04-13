@@ -14,9 +14,9 @@ Biomedical Engineering with an emphasis in Data Analytics.
 <br>
 I'm currently a Data Science Intern in the tech hub of Santa Monica, CA
 <br>
-and and also involved with STEM outreach through USC's Engineering
+and I am also involved with STEM outreach through USC's Engineering
 <br>
-faculty in the greater LA area.
+faculty for minority groups in the greater LA area.
 <br>  
 I'm LA born and raised, and completed my undergraduate studies  
 <br>
