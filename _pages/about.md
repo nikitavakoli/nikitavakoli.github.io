@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/samo.png"
+  image: "/images/samo.jpg"
 ---
 
   I'm a graduate student at the University of Southern California studying
