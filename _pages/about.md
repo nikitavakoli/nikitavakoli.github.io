@@ -28,3 +28,5 @@ at UCLA in 2018.
 <p align="center">
   <img width="460" height="300" src="/images/viterbi2.jpg">
 </p>
+<br>
+<a href="\images\Resume.pdf">ok</a>
