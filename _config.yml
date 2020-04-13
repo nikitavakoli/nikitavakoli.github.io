@@ -126,7 +126,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/nikitavak0li"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -287,4 +287,3 @@ defaults:
       values:
         layout: single
         author_profile: true
-        
