@@ -7,9 +7,7 @@ header:
 # Experience
 
 ## Data Science Intern
-
 ### Leaf Group Ltd. | Santa Monica, CA
-
 #### Nov 2019 - May 2020
 
 * Used the Google BigQuery API to reduce over 10 million rows of JSON data down into hundreds that would best satisfy requirements for improving site traffic and position on Google. I then trained this data using a prediction model that I built and tested. The overall increase in traffic led to several webpages being changed for performance improvement through Mongo.
