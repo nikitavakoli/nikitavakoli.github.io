@@ -119,35 +119,35 @@ header:
       <div>
         <div class="skills-container">
           <ul>
-            <LH>Programming</LH>
-            <LI>Python: Pandas, NumPy, Scikit-Learn, BeautifulSoup
-            <LI>MatLab & Simulink
+            <lh>Programming</lh>
+            <li>Python: Pandas, NumPy, Scikit-Learn, BeautifulSoup</li>
+            <li>MatLab, Simulink</li>
+          </ul>/
+
+          <ul>
+            <lh>Database Libraries</lh>
+            <li>MongoDB</li>
+            <li>MySQL</li>
+            <li>PostgreSQL</li>
           </ul>
 
           <ul>
-            <LH>Database Libraries</LH>
-            <LI>MongoDB
-            <LI>MySQL
-            <LI>PostgreSQL
+            <lh>Data Visualization</lh>
+            <li>Python: Matplotlib, Plotly, Seaborn</li>
+            <li>Tableau</li>
           </ul>
 
           <ul>
-            <LH>Data Visualization</LH>
-            <LI>Python: Matplotlib, Plotly, Seaborn
-            <LI>Tableau
-          </ul>
+            <lh>Cloud Computing</lh>
+            <li>Google Cloud Platform</li>
+            </ul>
 
           <ul>
-            <LH>Cloud Computing</LH>
-            <LI>Google Cloud Platform
-          </ul>
-
-          <ul>
-            <LH>Other </LH>
-            <LI>Linux/Unix
-            <LI> Git
-            <LI> HTML/CSS
-            <LI> Microsoft Excel
+            <lh>Other </lh>
+            <li>Linux/Unix</li>
+            <li>Git</li>
+            <li>HTML/CSS</li>
+            <li>Microsoft Excel</li>
           </ul>
         </div> <!-- end skills-container -->
 
