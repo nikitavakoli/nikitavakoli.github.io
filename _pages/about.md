@@ -36,9 +36,9 @@ Los Angeles, CA</p>
 •	Exported EEG brain maps after editing out unusable and noisy data from the EEG session using proper protocols and created brain charts of abnormal activity for the doctor to utilize in patient appointments.
 <br>
 •	Conducted neurofeedback trials using neurofeedback software and inputting/monitoring proper frequencies specified by the lead doctor. </h5>
-
-
-<h3><img src="/images/skills.png" alt="Skills" height="300" width="300"></h3>
+<br>
+<br>
+<h3><img src="/images/skills.png" alt="Skills" height="250" width="250"></h3>
 <h4>
 <dl>
   <dt>Programming:</dt>
