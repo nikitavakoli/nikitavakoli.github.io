@@ -5,7 +5,7 @@ header:
   image: "/images/about_me.png"
 ---
 
-# Experience :sleeping:
+# Experience :wave:
 
 ## Data Science Intern
 ### Leaf Group Ltd. | Santa Monica, CA
