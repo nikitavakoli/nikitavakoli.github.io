@@ -36,8 +36,8 @@ Jun 2017 - Aug 2019</h4>
 •	Conducted neurofeedback trials using neurofeedback software and specified frequencies by the lead doctor. </h5>
 
 
-<h4>Skills</h4>
-<h3>
+<h3><u>Skills</u></h3>
+<h4>
 <dl>
   <dt>Programming:</dt>
   <dd>∙Python (Pandas, NumPy, BeautifulSoup/Requests)</dd>
@@ -62,4 +62,4 @@ Jun 2017 - Aug 2019</h4>
   <dd>∙HTML, CSS</dd>
   <dd>∙Microsoft Excel</dd>
 </dl>
-</h3>
+</h4>
