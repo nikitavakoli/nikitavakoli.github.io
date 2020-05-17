@@ -8,15 +8,15 @@ author_profile: true
 
 
 <h3><u>Experience</u></h3>
-<h4><img src="/images/leafgroup.png" alt="Leaf Group" height="200" width="200"></h4>
+<h4><img src="/images/leafgroup.png" alt="Leaf Group" height="200" width="200">
 <body>
 <p style="font-size:16px">Data Science Intern&emsp;&emsp;&emsp;&emsp;&emsp;<i>Nov 2019 - May 2020</i>
 <br>
 Santa Monica, CA</p>
 </body>
-<h5>•Used the Google BigQuery API to reduce over 10 million rows of JSON data down into hundreds that would best satisfy requirements for improving site traffic and position on Google. I then trained this data using a prediction model that I built and tested. The overall increase in traffic led to several webpages being changed for performance improvement through Mongo.
+<h5>• Used the Google BigQuery API to reduce over 10 million rows of JSON data down into hundreds that would best satisfy requirements for improving site traffic and position on Google. I then trained this data using a prediction model that I built and tested. The overall increase in traffic led to several webpages being changed for performance improvement through Mongo
 <br>
-•Performed web scraping from various sources to help create interactive charts and maps for company websites using several visualization libraries.</h5>
+•	Performed web scraping from various sources to help create interactive charts and maps for company websites using several visualization libraries. </h5>
 <h4><img src="/images/keck.png" alt="USC Keck School of Medicine" height="200" width="200">
 <body>
 <p style="font-size:16px">Graduate Student Researcher&emsp;&emsp;&emsp;&emsp;&emsp;<i>Jun 2019 - Aug 2019</i>
