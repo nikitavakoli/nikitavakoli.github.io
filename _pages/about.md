@@ -10,7 +10,7 @@ author_profile: true
 <h3><u>Experience</u></h3>
 <h4><img src="/images/leafgroup.png" alt="Leaf Group" height="150" width="150"></h4>
 <body>
-<p style="font-size:14px">&emsp;Nov 2019 - May 2020
+<p style="font-size:14px">Data Science Intern&emsp;&emsp;&emsp;Nov 2019 - May 2020
 <br>
 Santa Monica, CA</p>
 </body>
