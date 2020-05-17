@@ -8,7 +8,7 @@ author_profile: true
 
 
 <h3><u>Experience</u></h3>
-<h4><b>Leaf Group Ltd.</b> &emsp;&emsp;&emsp;&emsp; Nov 2019 - May 2020
+<h4><strong>Leaf Group Ltd.</strong> &emsp;&emsp;&emsp;&emsp; Nov 2019 - May 2020
 <br>
 Santa Monica, CA</h4>
 <h5>•Used the Google BigQuery API to reduce over 10 million rows of JSON data down into hundreds that would best satisfy requirements for improving site traffic and position on Google. I then trained this data using a prediction model that I built and tested. The overall increase in traffic led to several webpages being changed for performance improvement through Mongo.
