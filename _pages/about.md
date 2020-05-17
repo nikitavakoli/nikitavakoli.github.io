@@ -10,9 +10,9 @@ author_profile: true
 <h3><u>Experience</u></h3>
 <h4><img src="/images/leafgroup.png" alt="Leaf Group" height="150" width="150"></h4>
 <body>
-<p style="font-size:20px">Santa Monica, CA
+<p style="font-size:14px">&emsp;Nov 2019 - May 2020
 <br>
-Nov 2019 - May 2020</p>
+Santa Monica, CA</p>
 </body>
 <h5>•Used the Google BigQuery API to reduce over 10 million rows of JSON data down into hundreds that would best satisfy requirements for improving site traffic and position on Google. I then trained this data using a prediction model that I built and tested. The overall increase in traffic led to several webpages being changed for performance improvement through Mongo.
 <br>
