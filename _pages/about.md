@@ -10,7 +10,7 @@ author_profile: true
 <h3><u>Experience</u></h3>
 <h4><img src="/images/leafgroup.png" alt="Leaf Group" height="200" width="200"></h4>
 <body>
-<p style="font-size:15px">Data Science Intern&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;Nov 2019 - May 2020
+<p style="font-size:16px">Data Science Intern&emsp;&emsp;&emsp;&emsp;&emsp;<i>Nov 2019 - May 2020</i>
 <br>
 Santa Monica, CA</p>
 </body>
@@ -18,18 +18,20 @@ Santa Monica, CA</p>
 <br>
 •Performed web scraping from various sources to help create interactive charts and maps for company websites using several visualization libraries.</h5>
 <h4><img src="/images/keck.png" alt="USC Keck School of Medicine" height="200" width="200">
+<body>
+<p style="font-size:16px">Graduate Student Researcher&emsp;&emsp;&emsp;&emsp;&emsp;<i>Jun 2019 - Aug 2019</i>
 <br>
-Los Angeles, CA
-<br>
-Jun 2019 - Aug 2019</h4>
+Los Angeles, CA</p>
+</body>
 <h5>•	Conducted research in the Department of Molecular Microbiology that integrates gene sequencing, bioinformatics pipeline, and statistical analysis to improve HIV vaccine design strategy.
 <br>
 •	Compiled copious amounts of quantitative research data from previous studies performed on the gut microbiota of HIV patients and co-created a large database in Python to be used for analysis and modeling.</h5>
 <h4><img src="/images/peak brain.jpeg" alt="Peak Brain Institute" height="300" width="300">
+<body>
+<p style="font-size:16px">Clinical Neurofeedback Intern&emsp;&emsp;&emsp;&emsp;&emsp;<i>June 2017 - Aug 2018</i>
 <br>
-Los Angeles, CA
-<br>
-Jun 2017 - Aug 2019</h4>
+Los Angeles, CA</p>
+</body>
 <h5>•	Administered electroencephalograms (EEG’s) on patients through the use of EEGr4 software and attachment of a 2-4 channel amplifier and electrodes on the skull to collect brain wave data.
 <br>
 •	Exported EEG brain maps after editing out unusable and noisy data from the EEG session using proper protocols and created brain charts of abnormal activity for the doctor to utilize in patient appointments.
