@@ -1,6 +1,6 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Data Projects"
+title: "Data Project Posts by Tags"
 author_profile: true
 ---
