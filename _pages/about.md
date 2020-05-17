@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About"
 permalink: /about/
 header:
   image: "/images/about_me.png"
@@ -15,9 +15,7 @@ header:
 * Performed web scraping from various sources to help create interactive charts and maps for company websites using several visualization libraries.
 
 ## Graduate Student Researcher
-
 ### Keck School of Medicine of USC | Los Angeles, CA
-
 #### Jun 2019 - Aug 2019
 
 * Conducted research in the Department of Molecular Microbiology that integrates gene sequencing, bioinformatics pipeline, and statistical analysis to improve HIV vaccine design strategy.
