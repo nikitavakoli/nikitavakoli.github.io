@@ -7,8 +7,8 @@ author_profile: true
 <h3> I am currently a Bioengineering graduate student at the University of Southern California (USC). I specialize and am interested in Biomedical Data Sciences. I have a strong passion for working with data and computer programming, especially in a Biological context. Click here for a PDF of my <a href="/images/My_Resume_NT.pdf">Résumé.</a></h3>
 
 
-<h3><u>Experience:</u></h3>
-<h4>Leaf Group Ltd. &emsp;&emsp; Nov 2019 - May 2020
+<h3><u>Experience</u></h3>
+<h4>Leaf Group Ltd. &emsp;&emsp;&emsp;&emsp; Nov 2019 - May 2020
 <br>
 Santa Monica, CA</h4>
 <h5>•Used the Google BigQuery API to reduce over 10 million rows of JSON data down into hundreds that would best satisfy requirements for improving site traffic and position on Google. I then trained this data using a prediction model that I built and tested. The overall increase in traffic led to several webpages being changed for performance improvement through Mongo.
