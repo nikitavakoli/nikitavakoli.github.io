@@ -10,7 +10,7 @@ header:
   <title>Niki's Resume</title>
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-  <link rel="stylesheet" href="nikitavakoli.github.io/style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
