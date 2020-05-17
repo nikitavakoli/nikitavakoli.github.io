@@ -4,7 +4,8 @@ permalink: /about/
 header:
   image: "/images/about_me.png"
 ---
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
   <meta charset="UTF-8">
   <title>Niki's Resume</title>
