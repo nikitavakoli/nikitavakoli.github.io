@@ -8,7 +8,7 @@ author_profile: true
 
 
 <h3><u>Experience</u></h3>
-<h4><****>Leaf Group Ltd.</****>
+<h4>****Leaf Group Ltd.****
 <br>
 Santa Monica, CA
 <br>
