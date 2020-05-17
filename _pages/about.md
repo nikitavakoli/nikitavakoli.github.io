@@ -8,7 +8,7 @@ author_profile: true
 
 
 <h3><u>Experience</u></h3>
-<h4><img src="/images/leafgroup.png" alt="Leaf Group" height="10" width="10">
+<h4><img src="/images/leafgroup.png" alt="Leaf Group" height="50" width="50">
 <br>
 Santa Monica, CA
 <br>
