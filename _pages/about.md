@@ -6,8 +6,7 @@ author_profile: true
 ---
 <h3> I am currently a Bioengineering graduate student at the University of Southern California (USC). I specialize and am interested in Biomedical Data Sciences. I have a strong passion for working with data and computer programming, especially in a Biological context. Click here for a PDF of my <a href="/images/My_Resume_NT.pdf">Résumé.</a></h3>
 <br>
-<br>
-<h3><img src="/images/Work-PNG-Photo.png" alt="Experience" height="40" width="40">&ensp;Experience</h3>
+<h3 style="font-size:40 px"><img src="/images/Work-PNG-Photo.png" alt="Experience" height="40" width="40">&ensp;Experience</h3>
 <h4><img src="/images/leafgroup.png" alt="Leaf Group" height="200" width="200">
 <body>
 <p style="font-size:16px">Data Science Intern&emsp;&emsp;&emsp;&emsp;&emsp;<i>Nov 2019 - May 2020</i>
