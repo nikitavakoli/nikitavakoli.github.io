@@ -44,7 +44,7 @@ header:
             <div>
               <div class="job-company">Leaf Group Ltd.</div>
               <div class="job-title">Data Science Intern</div>
-              <div class="location">Santa Monica, CA</div>
+              <div class="job-location">Santa Monica, CA</div>
             </div>
             <div>
               Nov 2019 - May 2020
@@ -58,7 +58,7 @@ header:
             <div>
               <div class="job-company">USC Keck School of Medicine</div>
               <div class="job-title">Graduate Student Researcher</div>
-              <div class="location">Los Angeles, CA</div>
+              <div class="job-location">Los Angeles, CA</div>
             </div>
             <div>
               June 2019 - August 2019
@@ -72,7 +72,7 @@ header:
             <div>
               <div class="job-company">Peak Brain Institute</div>
               <div class="job-title">Clinical Neurofeedback Intern</div>
-              <div class="location">Culver City, CA</div>
+              <div class="job-location">Culver City, CA</div>
             </div>
             <div>
               Jun 2017 - Aug 2018
@@ -122,7 +122,7 @@ header:
             <lh>Programming</lh>
             <li>Python: Pandas, NumPy, Scikit-Learn, BeautifulSoup</li>
             <li>MatLab, Simulink</li>
-          </ul>/
+          </ul>
 
           <ul>
             <lh>Database Libraries</lh>
