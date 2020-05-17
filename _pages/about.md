@@ -7,7 +7,7 @@ author_profile: true
 <h3> I am currently a Bioengineering graduate student at the University of Southern California (USC). I specialize and am interested in Biomedical Data Sciences. I have a strong passion for working with data and computer programming, especially in a Biological context. Click here for a PDF of my <a href="/images/My_Resume_NT.pdf">Résumé.</a></h3>
 
 <h3 style="font-size:38px"><img src="/images/Work-PNG-Photo.png" alt="Experience" height="55" width="55">&ensp;Experience</h3>
-<h4><img src="/images/leafgroup.png" alt="Leaf Group" height="200" width="200">
+<h4><img src="/images/leafgroup.png" alt="Leaf Group" height="180" width="180">
 <body>
 <p style="font-size:16px">Data Science Intern&emsp;&emsp;&emsp;&emsp;&emsp;<i>Nov 2019 - May 2020</i>
 <br>
@@ -38,7 +38,7 @@ Los Angeles, CA</p>
 •	Conducted neurofeedback trials using neurofeedback software and inputting/monitoring proper frequencies specified by the lead doctor. </h5>
 
 
-<h3><u>Skills</u></h3>
+<h3 style="font-size:38px"><img src="/images/code.png" alt="Skills" height="55" width="55">&ensp;Skills</h3>
 <h4>
 <dl>
   <dt>Programming:</dt>
