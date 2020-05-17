@@ -2,17 +2,16 @@
 title: "About Me"
 permalink: /about/
 header:
-  image: "/images/samo.jpg"
+  image: "/images/about_me.png"
 ---
 <center>
-<h1> Who am I? </h1>
 <br>
 <body>
 I'm a graduate student at the University of Southern California studying
 <br>
-Biomedical Engineering with an emphasis in Data Analytics.
+Biomedical Engineering with a passion for Biomedical Data Sciences.
 <br>
-I'm currently a Data Science Intern in the tech hub of Santa Monica, CA
+I have experience as a Data Science intern in the tech hub of Santa Monica, CA
 <br>
 and I am also involved with STEM outreach through USC's Engineering
 <br>
@@ -30,5 +29,5 @@ at UCLA in 2018.
 </p>
 <br>
 <center>
-<a href="\images\Resume.pdf" style="color:red, font-weight:bold">Click here for my Resume</a>
+<a href="\images\Resume.pdf" style="color:red">Click here for my Resume</a>
 </center>
