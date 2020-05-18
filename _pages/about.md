@@ -70,14 +70,14 @@ Los Angeles, CA</p>
 <center>
 <h3><img src="/images/education.png" alt="Education" height="400" width="400"></h3>
 </center>
-<h4><img src="/images/viterbilogo.jpg" alt="USC" height="180" width="180">
+<h4><img src="/images/viterbilogo.jpg" alt="USC" height="250" width="250">
 <body>
 <p style="font-size:16px">M.S. Biomedical Engineering (w/ Breadth in Biomedical Data Sciences)
 <br>
 Aug 2019 - May 2020 | GPA 3.9</p>
 </body>
 <h5>Relevant Coursework: Database Systems/Design, Machine Learning, Biomedical Imaging & Informatics, Biomedical Signals & Systems Analysis, Biomedical Research Seminars, Big Data Informatics.</h5>
-<h4><img src="/images/ucla.png" alt="UCLA" height="200" width="200">
+<h4><img src="/images/ucla.png" alt="UCLA" height="150" width="150">
 <body>
 <p style="font-size:16px">B.A. Psychology (w/ Breadth in Neuroscience & Biology)
 <br>
