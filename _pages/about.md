@@ -53,7 +53,7 @@ Los Angeles, CA</p>
 </center>
 <dl>
   <dt>Programming:</dt>
-  <dd>∙Python (Pandas, NumPy, BeautifulSoup/Requests)</dd>
+  <dd><img src="/images/python.png" alt="python" height="50" width="50"><img src="/images/pandas.png" alt="pandas" height="50" width="50"></dd>
   <dd>∙MatLab & Simulink</dd>
   <dt>Machine Learning:</dt>
   <dd>∙Scikit-Learn</dd>
