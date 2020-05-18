@@ -40,7 +40,7 @@ Los Angeles, CA</p>
 <br>
 <br>
 <center>
-<p><img src="/images/newskills.png" alt="Skills" height="300" width="300">
+<p><img src="/images/newskills.png" alt="Skills" height="300" width="300"></p>
 </center>
 <br>
 <dl>
@@ -67,4 +67,3 @@ Los Angeles, CA</p>
   <dd>∙HTML, CSS</dd>
   <dd>∙Microsoft Excel</dd>
 </dl>
-</p>
