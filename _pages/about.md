@@ -38,7 +38,7 @@ Los Angeles, CA</p>
 •	Conducted neurofeedback trials using neurofeedback software and inputting/monitoring proper frequencies specified by the lead doctor. </h5>
 <br>
 <br>
-<p><img src="/images/newskills.png" alt="Skills" height="250" width="250">
+<p><img src="/images/newskills.png" alt="Skills" height="300" width="300">
 <br>
 <dl>
   <dt>Programming:</dt>
