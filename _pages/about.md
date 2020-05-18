@@ -39,7 +39,6 @@ Los Angeles, CA</p>
 <br>
 <br>
 <h3><img src="/images/skills.png" alt="Skills" height="250" width="250"></h3>
-<h4>
 <dl>
   <dt>Programming:</dt>
   <dd>∙Python (Pandas, NumPy, BeautifulSoup/Requests)</dd>
@@ -64,4 +63,3 @@ Los Angeles, CA</p>
   <dd>∙HTML, CSS</dd>
   <dd>∙Microsoft Excel</dd>
 </dl>
-</h4>
