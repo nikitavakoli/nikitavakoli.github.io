@@ -75,7 +75,7 @@ Los Angeles, CA</p>
 <p style="font-size:16px">M.S. Biomedical Engineering (w/ Breadth in Biomedical Data Sciences)
 <br>
 <br>
-Aug 2019 - May 2020 | GPA 3.9</p>
+Class of 2021 | GPA 3.9</p>
 </body>
 <h5>Relevant Coursework: Database Systems/Design, Machine Learning, Biomedical Imaging & Informatics, Biomedical Signals & Systems Analysis, Biomedical Research Seminars, Big Data Informatics.</h5>
 <h4><img src="/images/ucla.png" alt="UCLA" height="150" width="150">
@@ -83,7 +83,7 @@ Aug 2019 - May 2020 | GPA 3.9</p>
 <p style="font-size:16px">B.A. Psychology (w/ Breadth in Neuroscience & Biology)
 <br>
 <br>
-Sep 2016 - June 2018 | GPA 3.7 | Regent's Scholarship Recipient</p>
+Class of 2018 | GPA 3.7 | Regent's Scholarship Recipient</p>
 </body>
 <h5>Relevant Coursework: Cell & Molecular Biology, Genetics & Evolution/Ecology, Biochemistry, Organic Chemistry, Multivariable Calculus, Linear Algebra, Statistics, Physics Series.</h5>
 <br>
