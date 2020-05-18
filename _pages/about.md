@@ -37,6 +37,18 @@ Los Angeles, CA</p>
 •	Exported EEG brain maps after editing out unusable and noisy data from the EEG session using proper protocols and created brain charts of abnormal activity for the doctor to utilize in patient appointments.
 <br>
 •	Conducted neurofeedback trials using neurofeedback software and inputting/monitoring proper frequencies specified by the lead doctor. </h5>
+<h4><img src="/images/health.jpeg" alt="UCLA Hospital" height="300" width="300">
+<body>
+<p style="font-size:16px">CCE Intern&emsp;&emsp;&emsp;&emsp;&emsp;<i>Aug 2016 - Oct 2017</i>
+<br>
+Los Angeles, CA</p>
+</body>
+<h5>•	Worked as an intern in various departments of the Ronald Reagan UCLA Hospital each quarterly cycle and experienced multiple different hospital sectors (ranging from the medical telemetry unit, oncology unit, intensive care unit, and the emergency room).
+<br>
+• Major duties on the job included assisting the nurses/nurse assistants with various tasks such as handling patient information, making patient rounds with 1 on 1 assistance, and even managing patient samples through the hospital tubing system.
+<br>
+•	Conducted neurofeedback trials using neurofeedback software and inputting/monitoring proper frequencies specified by the lead doctor. </h5>
+
 <br>
 <br>
 <center>
