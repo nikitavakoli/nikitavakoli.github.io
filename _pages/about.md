@@ -70,7 +70,7 @@ Los Angeles, CA</p>
 <center>
 <h3><img src="/images/education.png" alt="Education" height="400" width="400"></h3>
 </center>
-<h4><img src="/images/viterbilogo.jpg" alt="USC" height="250" width="250">
+<h4><img src="/images/viterbilogo.jpg" alt="USC" height="300" width="300">
 <body>
 <p style="font-size:16px">M.S. Biomedical Engineering (w/ Breadth in Biomedical Data Sciences)
 <br>
