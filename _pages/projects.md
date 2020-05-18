@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Data Project Posts by Tags"
+title: "Data Project Posts"
 author_profile: true
 ---
 {% for post in site.posts %}
