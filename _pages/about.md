@@ -4,7 +4,7 @@ permalink: /about/
 title: "About Me"
 author_profile: true
 ---
-<h3> I am currently a Bioengineering graduate student at the University of Southern California (USC). I specialize and am interested in Biomedical Data Sciences. I have a strong passion for working with data and computer programming, especially in a Biological context. Click here for a PDF of my <a href="/images/My_Resume_NT.pdf">Résumé.</a></h3>
+<h3> I am currently a Bioengineering graduate student at the University of Southern California (USC). I specialize and am interested in Biomedical Data Sciences. I have a strong passion for working with data and computer programming, especially in a Biological context.</h3>
 <center>
 <h3><img src="/images/experi.png" alt="Experience" height="400" width="400"></h3>
 </center>
@@ -86,3 +86,5 @@ Aug 2019 - May 2020 | GPA 3.9</p>
 Sep 2016 - June 2018 | GPA 3.7 | Regent's Scholarship Recipient</p>
 </body>
 <h5>Relevant Coursework: Cell & Molecular Biology, Genetics & Evolution/Ecology, Biochemistry, Organic Chemistry, Multivariable Calculus, Linear Algebra, Statistics, Physics Series.</h5>
+
+<h3>Click here for a PDF of my <a href="/images/My_Resume_NT.pdf">Résumé.</a></h3>
