@@ -53,7 +53,7 @@ Los Angeles, CA</p>
 </center>
 <dl>
   <dt>Programming:</dt>
-  <dd><img src="/images/python.png" alt="python" height="175" width="175">(<img src="/images/pandas.png" alt="pandas" height="100" width="100">)</dd>
+  <dd><img src="/images/python.png" alt="python" height="140" width="140">(<img src="/images/pandas.png" alt="pandas" height="100" width="100">)</dd>
   <dd>∙MatLab & Simulink</dd>
   <dt>Machine Learning:</dt>
   <dd>∙Scikit-Learn</dd>
