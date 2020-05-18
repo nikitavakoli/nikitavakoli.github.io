@@ -86,5 +86,7 @@ Aug 2019 - May 2020 | GPA 3.9</p>
 Sep 2016 - June 2018 | GPA 3.7 | Regent's Scholarship Recipient</p>
 </body>
 <h5>Relevant Coursework: Cell & Molecular Biology, Genetics & Evolution/Ecology, Biochemistry, Organic Chemistry, Multivariable Calculus, Linear Algebra, Statistics, Physics Series.</h5>
-
+<br>
+<br>
+<br>
 <h3>Click here for a PDF of my <a href="/images/My_Resume_NT.pdf">Résumé.</a></h3>
