@@ -6,7 +6,7 @@ author_profile: true
 ---
 <p style="font-size:20"> I am currently a Bioengineering graduate student at the University of Southern California (USC). I specialize and am interested in Biomedical Data Sciences. I enjoy working with data and computer programming, especially in a Biological context. My background is a testament to my passion of being involved with patient health not only from a technical standpoint but also with a rich clinical understanding of the healthcare sector. </p>
 <center>
-<h3><img src="/images/experi.png" alt="Experience" height="400" width="400"></h3>
+<h3><img src="/images/experi.png" alt="Experience" height="350" width="350"></h3>
 </center>
 <h4><img src="/images/leafgroup.png" alt="Leaf Group" height="180" width="180">
 <body>
@@ -49,7 +49,7 @@ Los Angeles, CA</p>
 <br>
 <br>
 <center>
-<p><img src="/images/newskills.png" alt="Skills" height="300" width="300"></p>
+<p><img src="/images/newskills.png" alt="Skills" height="240" width="240"></p>
 </center>
 <dl>
   <dt>Programming:</dt>
@@ -77,7 +77,7 @@ Los Angeles, CA</p>
 </dl>
 
 <center>
-<h3><img src="/images/education.png" alt="Education" height="400" width="400"></h3>
+<h3><img src="/images/education.png" alt="Education" height="350" width="350"></h3>
 </center>
 <h4><img src="/images/viterbilogo.jpg" alt="USC" height="300" width="300">
 <body>
