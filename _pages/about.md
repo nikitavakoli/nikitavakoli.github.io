@@ -54,6 +54,7 @@ Los Angeles, CA</p>
 <dl>
   <dt>Programming:</dt>
   <dd>∙Python (Pandas, NumPy, BeautifulSoup/Requests)</dd>
+  <dd>∙Javascript 
   <dd>∙MatLab & Simulink</dd>
   <dt>Machine Learning:</dt>
   <dd>∙Scikit-Learn</dd>
