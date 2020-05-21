@@ -104,7 +104,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/DatabaeInLA"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/nikitava/"
@@ -113,10 +113,10 @@ author:
       url: "https://github.com/nikitavakoli"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/nikitavak0li"
+      # url: "https://www.facebook.com/nikitavak0li"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/niki_tavakoli/"
+      # url: "https://www.instagram.com/niki_tavakoli/"
 
 # Site Footer
 footer:
@@ -129,10 +129,10 @@ footer:
       url: "https://github.com/nikitavakoli"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/DatabaeInLA"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/nikitavak0li"
+      #url: "https://www.facebook.com/nikitavak0li"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -144,7 +144,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/niki_tavakoli/"
+      # url: "https://www.instagram.com/niki_tavakoli/"
 
 
 # Reading Files
