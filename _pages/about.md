@@ -88,6 +88,7 @@ Los Angeles, CA</p>
 Class of 2021 | GPA 3.9</p>
 </body>
 <h5>Relevant Coursework: Database Systems/Design, Machine Learning, Biomedical Imaging & Informatics, Biomedical Signals & Systems Analysis, Biomedical Research Seminars, Big Data Informatics.</h5>
+<h5> Leadership: Teacher's Assistant (TA) for USC Summer Programs Intro Engineering course, K-12 STEM center assistant, Women in Science & Engineering (WiSE)
 <h4><img src="/images/bruins.png" alt="UCLA" height="150" width="150">
 <body>
 <p style="font-size:16px">B.A. Psychology (w/ Breadth in Neuroscience & Biology)
