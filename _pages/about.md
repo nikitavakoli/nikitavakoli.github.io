@@ -4,9 +4,10 @@ permalink: /about/
 title: "About Me"
 author_profile: true
 ---
-<p style="font-size:20"> I am currently a Bioengineering graduate student at the University of Southern California (USC). I specialize and am interested in Biomedical Data Sciences. I enjoy working with data and computer programming, especially in a Biological context. My background is a testament to my passion of being involved with patient health not only from a technical standpoint but also with a rich clinical understanding of the healthcare sector. </p>
-<center>
-<h3><img src="/images/experi.png" alt="Experience" height="350" width="350"></h3>
+<p style="font-size:16"> I am a Biomedical Engineering graduate student at the University of Southern California (USC) in Los Angeles. I specialize in Biomedical Data Sciences and enjoy working with data and computer programming in a Biological context. My background is a testament to my passion of being involved with patient health not only from a technical standpoint but also with a rich clinical understanding of the healthcare sector. </p>
+<br>
+<br>
+<h3>Experience</h3>
 </center>
 <h4><img src="/images/leafgroup.png" alt="Leaf Group" height="180" width="180">
 <body>
