@@ -7,6 +7,4 @@ author_profile: true
 <h2>About Me</h2>
 <p style="font-size:20px"> I am a Biomedical Engineering graduate student at the University of Southern California (USC) in Los Angeles. I specialize in Biomedical Data Sciences and enjoy working with data and computer programming in a Biological context. My background is a testament to my passion of being involved with patient health not only from a technical standpoint but also with a rich clinical understanding of the healthcare sector. </p>
 <br>
-<br>
-
-<p style='font-size:20px'> Click here for a link to my <a href="/Users/nikitavakoli/Desktop/Resumes/Niki_Tavakoli.pdf">résumé.</a> 
+<p style='font-size:20px'> Click here for a link to my <a href="file:///Users/nikitavakoli/Desktop/Resumes/Niki_Tavakoli.pdf">résumé.</a> 
