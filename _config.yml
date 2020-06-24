@@ -293,15 +293,3 @@ defaults:
       values:
         layout: single
         author_profile: true
-
-  # _postsnew
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
