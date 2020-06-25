@@ -8,6 +8,6 @@ author_profile: true
 
 {% for post in site.posts %}
  {% if post.tags contains 'data project' %}
-  {{ post.title }}
+  {% include archive-single.html %}
  {% endif %}
 {% endfor %}
