@@ -97,7 +97,7 @@ author:
   avatar           : "/images/profile.png"
   bio              : "Data Driven. 💻"
   location         : "Los Angeles, CA"
-  email            :
+  email            : nikitava@usc.edu
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
