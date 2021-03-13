@@ -4,7 +4,7 @@ permalink: /blog/
 title: "Personal Blog"
 author_profile: true
 ---
-Blogs about all things school, applications, & science 🎒👩🏻‍🏫💻
+Blogs about all things school, applications, & science 🎒👩🏻‍🏫✏️
 
 {% for post in site.posts %}
  {% if post.tags contains 'blog post' %}
