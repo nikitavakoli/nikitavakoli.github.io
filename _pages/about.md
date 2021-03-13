@@ -9,8 +9,7 @@ author_profile: true
 </p>
 <hr>
 
-<p style="font-size:18px"><b>Education</b></p>
-<hr>
+<h2>Education</h2>
 <p style="font-size:16px"><b>Ph.D.</b> University of Southern California (2021-2015)</p>
 <hr>
 <p style="font-size:16px"><b>M.S.</b> University of Southern California (2019-2021)</p>
