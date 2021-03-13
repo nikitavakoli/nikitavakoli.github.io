@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2 class="remove-whitespace">A little bit about me </h2>
-<p style="font-size:16px"> I am a highly enthusiastic graduate student, researcher and aspiring scientist. Currently, I am pursuing my Ph.D. at the <b><font color="darkred">University Southern California</font></b> Viterbi School in <a href="https://bme.usc.edu/">Biomedical Engineering</a>. I am also finishing up my M.S. in Biomedical Engineering at USC, and completed my undergraduate studies at the <b><font color="steelblue">University of California, Los Angeles (UCLA)</font></b> where I was a <a href="https://prospective-ugstudents-ucla.academicworks.com/opportunities/284">Regent's Scholar</a>.
+<p style="font-size:16px"> I am a highly enthusiastic graduate student, researcher and aspiring scientist. Currently, I am pursuing my Ph.D. at the <b><font color="darkred">University Southern California</font></b> Viterbi School of Engineering in <a href="https://bme.usc.edu/">Biomedical Engineering</a>. I am also finishing up my M.S. in Biomedical Engineering at USC, and completed my undergraduate studies at the <b><font color="steelblue">University of California, Los Angeles (UCLA)</font></b> where I was a <a href="https://prospective-ugstudents-ucla.academicworks.com/opportunities/284">Regent's Scholar</a>.
 <hr>
 <p style="font-size:16px">I enjoy working with data through programming, mathematics, and machine learning. I am primarily interested in the field of <a href="http://mathematical-oncology.org">Mathematical Oncology</a> and learning how to model and understand cancer initiation, progression and developing targeted therapies. Thus far, I have been learning a systems biology approach of how to utilize the aforementioned techniques for integration with complex biological systems.
 </p>
@@ -15,4 +15,4 @@ author_profile: true
 <p style="font-size:16px"> I am also enthusiastic about science outreach, particularly in strengthening and inspiring STEM participation in groups that are underrepresented minorities and girls. I have been working at the <a href="https://viterbik12.usc.edu/"> USC Viterbi K-12 STEM Center</a> since 2019, where I am a student instructor/organizer teaching after-school programs centered in Mathematics & Science in the greater Los Angeles community.
 <hr>
 <h2 class="remove-whitespace">Recent News</h2>
-<p style="font-size:16px"><b> February 2021:</b>I received a <a href="http://graduateschool.usc.edu/fellowships/">USC Graduate School Fellowship</a> for beginning my PhD this Fall!</p>
+<p style="font-size:16px"><b> February 2021:</b> I received a <a href="http://graduateschool.usc.edu/fellowships/">USC Graduate School Fellowship</a> for beginning my PhD this Fall!</p>
