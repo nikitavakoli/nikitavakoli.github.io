@@ -12,10 +12,8 @@ author_profile: true
 
 <p style="font-size:18px"><b>Education</b></p>
 <hr>
-<p style="font-size:16px"><b>PhD, Biomedical Engineering</b>, University of Southern Californa (usc)</p>
-<br>
-<p style="font-size:14px">2021-2025 (Expected)</p>
-
-
-<h4> 2021-2025 (expected)</h4>
-<h5> <b>PhD, Biomedical Engineering</b>, University of Southern California (USC) </h5>
+<p style="font-size:16px"><b>Ph.D.</b>, University of Southern California (2021-2015)</p>
+<hr>
+<p style="font-size:16px"><b>M.S.</b>, University of Southern California (2019-2021)</p>
+<hr>
+<p style="font-size:16px"><b>B.A.</b>, University of California, Los Angeles (2014-2018)</p>
