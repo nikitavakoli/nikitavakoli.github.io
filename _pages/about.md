@@ -11,8 +11,8 @@ author_profile: true
 
 <p style="font-size:18px"><b>Education</b></p>
 <hr>
-<p style="font-size:16px"><b>Ph.D.</b>, University of Southern California (2021-2015)</p>
+<p style="font-size:16px"><b>Ph.D.</b> University of Southern California (2021-2015)</p>
 <hr>
-<p style="font-size:16px"><b>M.S.</b>, University of Southern California (2019-2021)</p>
+<p style="font-size:16px"><b>M.S.</b> University of Southern California (2019-2021)</p>
 <hr>
-<p style="font-size:16px"><b>B.A.</b>, University of California, Los Angeles (2014-2018)</p>
+<p style="font-size:16px"><b>B.A.</b> University of California, Los Angeles (2014-2018)</p>
