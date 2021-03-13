@@ -12,8 +12,8 @@ author_profile: true
 Education
 ---------
 
-2021-2015 (expected)
-:   **PhD, Biomedical Engineering**; University of Southern California (USC)
+2021-2025 (expected)
+:   <span "font-size:4em;"><b>PhD, Biomedical Engineering</b>; University of Southern California (USC)</span>
 
 2019-2021
 :   **M.S., Biomedical Engineering**; University of Southern California (USC)
