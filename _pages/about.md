@@ -13,7 +13,7 @@ Education
 ---------
 
 2021-2015 (expected)
-:   **PhD, Biomedical Engineering*; University of Southern California
+   **PhD, Biomedical Engineering**; University of Southern California
 
 2019-2021
 :   **M.S., Biomedical Engineering**; University of Southern California
