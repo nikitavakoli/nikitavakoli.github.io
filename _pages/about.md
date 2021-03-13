@@ -10,10 +10,8 @@ author_profile: true
 <p style="font-size:16px">I enjoy working with data through programming, mathematics, and machine learning. I am primarily interested in the field of <a href="http://mathematical-oncology.org">Mathematical Oncology</a> and learning how to model and understand cancer initiation, progression and developing targeted therapies.
 </p>
 <hr>
-<p style="font-size:16px"> My previous experience highlights not only my technical skills but also with a broader perspective of the clinical sector that is essential to becoming a successful biomedical engineer. I am currently conducting directed research in the <a href="http://csbl.usc.edu/"> USC CSBL</a> where I am reproducing results and working on designing mathematical model perturbations that affect colorectal cancer cell metabolism. Concurrently, I enjoy working as a teaching assistant and course producer for various classes in BME. In 2020, I also worked as a data science intern where I developed/advanced my data analysis & visualization skills. Prior to graduate school, I worked a clinical intern at a neurofeedback facility and also interned at the UCLA hospital in departments such as the ICU and ER where I learned how a hospital operates.</p> 
-
-
-
-
-
+<p style="font-size:16px"> My previous experience highlights not only my technical skills but also a broader perspective of the clinical sector, essential in becoming a successful biomedical engineer. I am currently conducting directed research in the <a href="http://csbl.usc.edu/"> USC CSBL</a> where I am reproducing results and working on designing mathematical model perturbations that affect colorectal cancer cell metabolism. I also enjoy working as a teaching assistant and course producer for various classes in BME. In 2020, I also worked as a data science intern where I developed/advanced my data analysis & visualization skills. Prior to graduate school, I worked a clinical intern at a neurofeedback facility and also interned at the UCLA hospital in departments such as the ICU and ER where I learned how a hospital operates.</p>
+<hr>
+<p style="font-size:16px"> I am also enthusiastic about science outreach, particularly in strengthening and inspiring STEM participation in girls and groups that are underrepresented minorities. I have been working at the <a href="https://viterbik12.usc.edu/"> USC Viterbi K-12 STEM Center</a> since 2019, where I work as a student instructor/organizer teaching after-school programs centered in Mathematics & Science in the greater Los Angeles community.
+<hr>
 <h2 class="remove-whitespace">Recent News</h2>
