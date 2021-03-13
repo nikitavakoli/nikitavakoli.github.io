@@ -16,3 +16,13 @@ author_profile: true
 <hr>
 
 <h2 class="remove-whitespace">Experience<h2>
+<ul>
+  <li>Graduate Student Researcher <b>Jan 2021 - Present</b></li>
+  <li>Teaching Assistant/Course Grader <b>Aug 2020 - Present</b></li>
+  <li>STEM Outreach Instructor & Student Assistant<b>September 2019 - Present</b></li>
+  <li>Data Science Intern<b>November 2019 - May 2020</b></li>
+  <li>Summer Research Student<b>June 2019 - August 2019</b></li>
+  <li>Neurofeedback Intern<b>June 2017 - July 2018</b></li>
+  <li>Clinical Care Extender Intern<b>August 2016 - November 2017</b></li>
+
+</ul>  
