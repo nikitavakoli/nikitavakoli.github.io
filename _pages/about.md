@@ -17,8 +17,3 @@ Education
 
 2019-2021
 :   **M.S., Biomedical Engineering**; University of Southern California (USC)
-
-2014-2018
-:   **B.A., Psychology**; University of California, Los Angeles (UCLA)
-
-  *Pre-medicine track with emphasis in Neuroscience & Gerontology*
