@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 ---
 
-<h2>A little bit about me </h2>
+<h2 class="remove-whitespace">A little bit about me </h2>
 <p style="font-size:16px"> An enthusiastic graduate student/researcher, and aspirating future scientist. Currently pursuing my Ph.D. at the University Southern California in <b>Biomedical Engineering</b>. Enjoys working with data through programming, mathematics, and machine learning. Primarily interested in the field of Mathematical Oncology and learning how to model and understand cancer initiation, progression and developing targeted therapies.
 </p>
 <h2>Education</h2>
