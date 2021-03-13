@@ -8,4 +8,5 @@ author_profile: true
 <hr>
 <p style="font-size:16px"> An enthusiastic graduate student/researcher, and aspirating future scientist. Currently pursuing my Ph.D. at the University Southern California in Biomedical Engineering. Enjoys working with data through programming, mathematics, and machine learning. Primarily interested in the field of Mathematical Oncology and learning how to model and understand cancer initiation, progression and developing targeted therapies. </p>
 <hr>
-<P align="right"> Hi </p>
+<body align="left"> Hi </body>
+<body Hello </body>
