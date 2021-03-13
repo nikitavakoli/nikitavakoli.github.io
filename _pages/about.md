@@ -10,6 +10,6 @@ author_profile: true
 <h2 class="remove-whitespace">Education</h2>
 <p style="font-size:16px"><b>Ph.D.</b> University of Southern California (2021-2015)</p>
 <hr>
-<p style="font-size:16px; style="color:darkred"><b>M.S.</b> University of Southern California (2019-2021)</p>
+<p style="font-size:16px; color:darkred"><b>M.S.</b> University of Southern California (2019-2021)</p>
 <hr>
 <p style="font-size:16px"><b>B.A.</b> University of California, Los Angeles (2014-2018)</p>
