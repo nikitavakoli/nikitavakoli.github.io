@@ -2,11 +2,11 @@
 layout: archive
 permalink: /projects/
 title: "Projects & Tutorials"
-tags: "data project"
+tags: "project"
 author_profile: true
 ---
 {% for post in site.posts %}
- {% if post.tags contains 'data project' %}
+ {% if post.tags contains 'project' %}
   {% include archive-single.html %}
  {% endif %}
 {% endfor %}
