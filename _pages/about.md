@@ -17,4 +17,4 @@ author_profile: true
 <p style="font-size:16px"> I am also enthusiastic about science outreach, particularly in strengthening and inspiring STEM participation in groups that are underrepresented minorities and girls. I have been working at the <a href="https://viterbik12.usc.edu/"> USC Viterbi K-12 STEM Center</a> since 2019, where I am a student instructor/organizer teaching after-school programs centered in Mathematics & Science in the greater Los Angeles community.
 <hr>
 <h2 class="remove-whitespace">Recent News</h2>
-<p style="font-size:16px"><b> February 2021:</b> I received a <a href="http://graduateschool.usc.edu/fellowships/">USC Annenberg Fellowship</a> for beginning my PhD this Fall!</p>
+<p style="font-size:16px"><b> February 2021:</b> I received a <a href="http://graduateschool.usc.edu/fellowships/prospective-PhD-students/">USC Annenberg Fellowship Top-off</a> for beginning my PhD this Fall!</p>
