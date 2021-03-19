@@ -19,4 +19,4 @@ author_profile: true
 <h2 class="remove-whitespace">Recent News</h2>
 <p style="font-size:16px"><b> February 2021:</b> I received a <a href="http://graduateschool.usc.edu/fellowships/prospective-PhD-students/">USC Annenberg Fellowship Top-off</a> for beginning my PhD this Fall!</p>
 
-<a href="https://viterbik12.usc.edu/stem-perspectives/#RegHead:~:text=NIKI%20TAVAKOLI">Link</a>
+<a href="https://viterbik12.usc.edu/stem-perspectives/#RegHead:~:text=Our%20Staff">Link</a>
