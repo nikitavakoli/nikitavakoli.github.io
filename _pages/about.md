@@ -21,4 +21,5 @@ author_profile: true
 
 
 <h2 class="remove-whitespace">Recent News</h2>
+p style="font-size:16px"><b> April 2021:</b> I received a <a href="https://viterbigrad.usc.edu/ms-awards/">USC Viterbi M.S. Award </a> which I'm very humbled by and thankful for! </p>
 <p style="font-size:16px"><b> February 2021:</b> I received a <a href="http://graduateschool.usc.edu/fellowships/prospective-PhD-students/">USC Annenberg Fellowship Top-off</a> for beginning my PhD this Fall!</p>
