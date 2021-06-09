@@ -18,5 +18,7 @@ author_profile: true
 <hr>
 
 <h2 class="remove-whitespace">Recent News</h2>
-<p style="font-size:16px"><b> April 2021:</b> I received a <a href="https://viterbigrad.usc.edu/ms-awards/">USC Viterbi M.S. Award </a> which I'm very humbled by and thankful for! </p>
+
+<p style="font-size:16px"><b> May 2021:</b> The Viterbi school published <a href="https://viterbischool.usc.edu/news/2021/05/niki-tavakoli-biomedical-engineering-graduating-student-qa/">this article</a> on a Q&A session I did!</p>
+<p style="font-size:16px"><b> April 2021:</b> I received a <a href="https://viterbischool.usc.edu/news/2021/05/recognizing-excellence-2021-masters-awards-ceremony/">USC Viterbi M.S. Award </a> from the USC dept. of Biomedical Engineering. </p>
 <p style="font-size:16px"><b> February 2021:</b> I received a <a href="http://graduateschool.usc.edu/fellowships/prospective-PhD-students/">USC Annenberg Fellowship Top-off</a> for beginning my PhD this Fall!</p>
