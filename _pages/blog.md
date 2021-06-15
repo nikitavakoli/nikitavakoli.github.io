@@ -1,10 +1,9 @@
 ---
 layout: archive
 permalink: /blog/
-title: "Personal Blog"
+title: "Blog"
 author_profile: true
 ---
-Blogs about all things school, science & tech. 🎒👩🏻‍🏫
 
 {% for post in site.posts %}
  {% if post.tags contains 'blog post' %}
