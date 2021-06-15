@@ -20,4 +20,4 @@ author_profile: true
 <p style="font-size:16px"><b> May 2021:</b> The Viterbi school published an article on a Q&A session I did upon finishing my M.S. degree - Read it <a href="https://viterbischool.usc.edu/news/2021/05/niki-tavakoli-biomedical-engineering-graduating-student-qa/">here!</a></p>
 <p style="font-size:16px"><b> April 2021:</b> I received a <a href="https://viterbischool.usc.edu/news/2021/05/recognizing-excellence-2021-masters-awards-ceremony/"> Viterbi M.S. Award </a> from the USC dept. of Biomedical Engineering. Thank you USC! </p>
 
-<center><img src="/images/usc_me.png" alt="pic1" width="100" height="100"></center>
+<center><img src="/images/usc_me.jpg" alt="pic1" width="100" height="100"></center>
