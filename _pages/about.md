@@ -4,7 +4,17 @@ permalink: /about/
 author_profile: true
 ---
 
-<h2 class="remove-whitespace">A little bit about me </h2>
+<img src="/images/usc_informal.png" alt="usc_logo" width="210" height="210">
+M.S. 2021
+Ph.D. 2026 (exp.)
+
+
+<img src="/images/ucla.png" alt="ucla_logo" width="210" height="210">
+<br>
+B.A. 2018
+
+
+
 <p style="font-size:16px"> I am currently pursuing my Ph.D. at the <b><font color="darkred">University Southern California</font></b> Viterbi School of Engineering in <a href="https://bme.usc.edu/">Biomedical Engineering</a>. I completed my M.S. in Biomedical Engineering at USC and my undergraduate studies at the <b><font color="steelblue">University of California, Los Angeles (UCLA)</font></b> where I was a <a href="https://prospective-ugstudents-ucla.academicworks.com/opportunities/284">Regent's Scholar</a>. I was also born in Los Angeles and raised nearby, so I have deep LA roots!
 <hr>
 <p style="font-size:16px">My passion is bridging the gap between biology, mathematics and computer science - three displicines I'm super passionate about. Primarily, I am interested in the field of <a href="http://mathematical-oncology.org">Mathematical Oncology</a> which focuses on mathematically modeling and understanding tumor initiation, progression and personalized patient therapy. My lab, the <a href="http://csbl.usc.edu/"> USC CSBL</a>, uses a systems biology approach to understand complex biological mechanisms that take place during cancer to then create more accurate and detailed models.
