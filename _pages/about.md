@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 ---
 
-<img src="/images/usc_informal.png" alt="usc_logo" width="375" height="375" align="left">
+<img src="/images/usc_informal.png" alt="usc_logo" width="375" height="375">
 <br>
 M.S. 2021
 <br>
@@ -15,6 +15,8 @@ Ph.D. 2026 (exp.)
 <br>
 <br>
 B.A. 2018
+<br>
+<a href="https://prospective-ugstudents-ucla.academicworks.com/opportunities/284"> UC Regents Scholar</a>.
 
 
 
