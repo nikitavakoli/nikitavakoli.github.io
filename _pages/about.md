@@ -4,18 +4,16 @@ permalink: /about/
 author_profile: true
 ---
 
-<img src="/images/uscMonopng" alt="usc_logo" width="210" height="210">
+<img src="/images/uscMono.png" alt="usc_logo" width="210" height="210">
 <br>
-M.S. 2021
+<font color="darkred">  M.S. 2021 </font>
 <br>
-Ph.D. 2026 (exp.)
+<font color="darkred">  Ph.D. 2026 (est.) </font>
 
 
 <img src="/images/ucla.png" alt="ucla_logo" width="210" height="210">
 <br>
-B.A. 2018
-<br>
-<p style="font-size:16px"> <a href="https://www.rssla.org/prospectivesold"> UC Regents Scholar</a></p>
+<font color="steelblue"> B.A. 2018, <a href="https://www.rssla.org/prospectivesold"> UC Regents Scholar </a> </font>
 
 
 
