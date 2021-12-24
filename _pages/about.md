@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 
