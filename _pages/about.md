@@ -11,7 +11,7 @@ M.S. 2021
 Ph.D. 2026 (exp.)
 
 
-<img src="/images/ucla.png" alt="ucla_logo" width="210" height="210" align="left">
+<img src="/images/ucla.png" alt="ucla_logo" width="210" height="210">
 <br>
 <br>
 B.A. 2018
