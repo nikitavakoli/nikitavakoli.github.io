@@ -4,14 +4,14 @@ permalink: /about/
 author_profile: true
 ---
 
-<img src="/images/usc_informal.png" alt="usc_logo" width="310" height="310">
+<img src="/images/usc_informal.png" alt="usc_logo" width="375" height="375" align="left">
 <br>
 M.S. 2021
 <br>
 Ph.D. 2026 (exp.)
 
 
-<img src="/images/ucla.png" alt="ucla_logo" width="210" height="210">
+<img src="/images/ucla.png" alt="ucla_logo" width="210" height="210" align="left">
 <br>
 <br>
 B.A. 2018
