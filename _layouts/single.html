@@ -8,6 +8,9 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
+{% if page.share %}{% include social-share.html %}{% endif %}
+
+
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
     {% include breadcrumbs.html %}
@@ -33,9 +36,6 @@ layout: default
         </header>
       {% endunless %}
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
-      /* moved from footer to header */
-      
 
       <section class="page__content" itemprop="text">
         {% if page.toc %}
