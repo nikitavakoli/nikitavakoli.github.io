@@ -3,18 +3,17 @@ layout: archive
 permalink: /about/
 author_profile: true
 ---
-
+<p>
 <img src="/images/uscMono.png" alt="usc_logo" width="210" height="210">
 <br>
-<font color="darkred">  M.S. 2021 </font>
-<br>
+<font color="darkred">  M.S. 2021 </font>  <br>
 <font color="darkred">  Ph.D. 2026 (est.) </font>
-
-
+</p>
+<p>
 <img src="/images/ucla.png" alt="ucla_logo" width="210" height="210">
 <br>
 <font color="steelblue"> B.A. 2018, <a href="https://www.rssla.org/prospectivesold"> UC Regents Scholar </a> </font>
-
+</p>
 
 
 <p style="font-size:16px"> I am currently pursuing my Ph.D. at the <b><font color="darkred">University Southern California</font></b> Viterbi School of Engineering in <a href="https://bme.usc.edu/">Biomedical Engineering</a>. I completed my M.S. in Biomedical Engineering at USC and my undergraduate studies at the <b><font color="steelblue">University of California, Los Angeles (UCLA)</font></b> where I was a <a href="https://prospective-ugstudents-ucla.academicworks.com/opportunities/284">Regent's Scholar</a>. I was also born in Los Angeles and raised nearby, so I have deep LA roots!
