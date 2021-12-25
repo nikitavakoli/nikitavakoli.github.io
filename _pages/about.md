@@ -14,7 +14,7 @@ Project: Constraint-based modeling of cancer and stromal cells
 <img src="/images/ucla.png" alt="ucla_logo" width="210" height="210">
 <br>
 <font color="steelblue"> • Bachelor of Arts (B.A.), 2018 <br>
-<a href="https://www.rssla.org/prospectivesold"> UC Regents Scholar </a> </font>
+<font color="steelblue"> • <i> University of California Regents Scholar </i> <br>
 </p>
 
 <hr>
