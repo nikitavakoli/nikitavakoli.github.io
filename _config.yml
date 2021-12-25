@@ -17,6 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "nikitavakoli.com"
+subtitle                 : "grad school • productivity • tutorials"
 title_separator          : "-"
 subtitle                 : # nothing here
 name                     : "<b>Niki Tavakoli</b>"
