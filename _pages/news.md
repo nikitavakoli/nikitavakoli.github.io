@@ -5,7 +5,7 @@ author_profile: true
 ---
 <h2 class="remove-whitespace">Recent News 🎉</h2>
 
-<h6 class="remove-whitespace">July 2021</h6>
+<h6 class="remove-whitespace">October 2021</h6>
 <p style="font-size:16px">I was elected into the publications board committee for the <a href="https://www.smb.org/">Society of Mathematical Biology</a>. I'm very excited to be working with other great people in my field across 5 different time zones to work on the SMB website.</p>
 <h6 class="remove-whitespace">July 2021</h6>
 <p style="font-size:16px">I was accepted as full participant to the 2021 <a href="http://physicell.org/ws2021/">PhysiCell Workshop & Hackathon</a>. I had a great time collaborating with other PhD students and Post-docs on helping expand this open-source software. </p>
