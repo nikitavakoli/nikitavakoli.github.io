@@ -20,4 +20,4 @@ Project: Constraint-based modeling of cancer and stromal cells
 Research interests: Mathematical biology/oncology, systems biology, computational science, agent-based modeling, machine learning
 <hr>
 
-<<font color="charcoal"> b> <a href="/images/Niki_Tavakoli_CV.pdf"><b> Curriculum Vitae </b></a> </b> 
+<font color="charcoal"> <b> <a href="/images/Niki_Tavakoli_CV.pdf"> Curriculum Vitae </b> </a> </font> 
