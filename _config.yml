@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Niki Tavakoli"
 title_separator          : "-"
 subtitle                 : # nothing here
-name                     : "<b>Niki Tavakolii</b>"
+name                     : "<b>Niki Tavakoli</b>"
 description              : "My Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
