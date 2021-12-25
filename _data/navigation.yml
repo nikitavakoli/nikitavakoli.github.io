@@ -4,10 +4,11 @@ main:
     url: /about/
   - title: "News"
     url: /news/
-  - title: "Projects"
-    url: /projects/
   - title: "Blog"
     url: /blog/
+  - title: "Projects"
+    url: /projects/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
