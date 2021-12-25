@@ -8,9 +8,6 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
-{% if page.share %}{% include social-share.html %}{% endif %}
-
-
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
     {% include breadcrumbs.html %}
@@ -33,6 +30,7 @@ layout: default
           {% if page.read_time %}
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
+          {% if page.share %}{% include social-share.html %}{% endif %}
         </header>
       {% endunless %}
 
