@@ -4,10 +4,10 @@ permalink: /about/
 author_profile: true
 ---
 <p>
-<img src="/images/uscMono.png" alt="usc_logo" width="250" height="250">
+<img src="/images/uscMono.png" alt="usc_logo" width="240" height="240">
 <br>
-<font color="darkred">  • Master of Science (M.S.), 2021 </font>  <br>
 <font color="darkred"> • Doctor of Philosophy (Ph.D.), 2026 (est.) </font> <br>
+<font color="darkred">  • Master of Science (M.S.), 2021 </font>  <br>
 Project: Constraint-based modeling of cancer and stromal cells
 </p>
 <p>
