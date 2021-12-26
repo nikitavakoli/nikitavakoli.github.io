@@ -22,5 +22,5 @@ Research interests: Mathematical biology/oncology, systems biology, computationa
 
 
 <p style="font-size:36px">
-<tr><td><a href="/images/Niki_Tavakoli_CV.pdf"><font color="DimGray"> <b> Curriculum Vitae </b> </font></a></td></tr>
+<tr><td><a href="/pdfs/Niki_Tavakoli_CV.pdf"><font color="DimGray"> <b> Curriculum Vitae </b> </font></a></td></tr>
 </p>
