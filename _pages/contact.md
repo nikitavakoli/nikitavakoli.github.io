@@ -1,8 +1,9 @@
 ---
 layout: archive
-permalink: /news/
+permalink: /contact/
 author_profile: true
 ---
+<h2 class="remove-whitespace">Contact Me 👩🏻‍💻</h2>
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/meqnoqyq" method="post">
   <fieldset id="fs-frm-inputs">
