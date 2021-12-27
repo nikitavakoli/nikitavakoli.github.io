@@ -17,7 +17,7 @@ Project: Constraint-based modeling of cancer and stromal cells
 <font color="steelblue"> • <i> University of California Regents Scholar </i> </font> <br>
 
 <hr>
-Research interests: Mathematical biology/oncology, systems biology, computational science, agent-based modeling, machine learning
+Research interests: Mathematical biology & oncology, systems biology, computational science, agent-based modeling, machine learning
 <hr>
 
 
