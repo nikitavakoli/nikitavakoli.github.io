@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /projects/
+permalink: /tutorials/
 title: "Projects & Tutorials"
 tags: "project"
 author_profile: true
