@@ -17,7 +17,7 @@ Project: Constraint-based modeling of cancer and stromal cells
 <font color="steelblue"> • <i> University of California Regents Scholar </i> </font> <br>
 
 <hr>
-Research interests: Mathematical biology & oncology, systems biology, computational science, agent-based modeling, and machine learning
+Research work: Stromal cells have long been known to impact and alter the metabolism of cancer cells in the tumor microenvironment. The exact mechanisms, however, remain under question of the dependencies between the two. To gain insight into this complex biological mechanism, we use experimental and metabolomics data in a constraint-based modeling system to predict central carbon metabolism fluxes in response to perturbations. This work is done in MATLAB, using OpenCOBRA to perform flux balance analysis. It is funded by the NIH U01. 
 <hr>
 
 
