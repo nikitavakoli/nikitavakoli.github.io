@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /news/
-author_profile: true
+author_profile: false
 ---
 <h2 class="remove-whitespace">Recent News 🎉</h2>
 
