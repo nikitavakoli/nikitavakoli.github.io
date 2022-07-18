@@ -133,8 +133,8 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/DatabaeInLA"
     - label: "Facebook"
-      #icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/nikitavak0li"
+      icon: "fab fa-fw fa-facebook-square"
+      #url: "https://www.facebook.com/nikitavak0li"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
