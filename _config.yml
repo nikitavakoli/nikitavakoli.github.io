@@ -94,8 +94,8 @@ analytics:
 
 # Site Author
 author:
-  #name             : "Niki Tavakoli"
-  #bio              : "Engineer in the making, inspired researcher, and motivated scientist."
+  name             : "Niki Tavakoli"
+  bio              : "Engineer in the making, inspired researcher, and motivated scientist."
   location         : "Los Angeles, CA"
   avatar           : "/images/beach_pic.jpg"
   bio              : "Grad student, motivated researcher, inspired scientist."
@@ -134,7 +134,7 @@ footer:
       url: "https://twitter.com/DatabaeInLA"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      #url: "https://www.facebook.com/nikitavak0li"
+      url: "https://www.facebook.com/nikitavak0li"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
