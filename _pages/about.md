@@ -3,6 +3,10 @@ layout: archive
 permalink: /about/
 author_profile: false
 ---
+<center>
+<img src="/images/home.png" alt="home_logo" width="210" height="210">
+</center>
+
 <p>
 <img src="/images/uscMono.png" alt="usc_logo" width="240" height="240">
 <br>
