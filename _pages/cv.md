@@ -1,6 +1,6 @@
 ---
-layout: archive
-permalink: /news/
+layout: single
+permalink: /cv/
 author_profile: false
 ---
 
