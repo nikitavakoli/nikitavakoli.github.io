@@ -4,11 +4,11 @@ permalink: /about/
 author_profile: false
 ---
 <center>
-<img src="/images/banner.png" alt="home_logo" width="900" height="900">
+<img src="/images/banner.png" alt="home_logo" width="1000" height="1000">
 </center>
 
 
-<center><p style="font-size:16px"><i>Thanks for visiting my web portfolio! I'm a 2nd year Ph.D. Student at the University of Southern California. I work with Dr. Stacey Finley in the Computational Systems Biology Laboratory. I am passionate about bridging the gap between Biology, Mathematics and Computer Science.</i></p>
+<center><p style="font-size:16px"><i>Thanks for visiting my web portfolio! I'm a 2nd year Ph.D. Student at the University of Southern California studying <b>Biomedical Engineering</b>. I work with Dr. Stacey Finley in the Computational Systems Biology Laboratory. I am passionate about bridging the gap between <b>Biology, Mathematics and Computer Science.</b></i></p>
 </center>
 
 <hr>
@@ -28,4 +28,4 @@ Project: Constraint-based modeling of cancer and stromal cells
 <img src="/images/ucla.png" alt="ucla_logo" width="170" height="170">
 <br>
 <font color="steelblue"> • Bachelor of Arts (B.A.), 2018 <br> </font>
-• <a href="https://prospective-ugstudents-ucla.academicworks.com/opportunities/334"><i> University of California Regents Scholar </i></a> <br>
+• <a href="https://prospective-ugstudents-ucla.academicworks.com/opportunities/334" style="color: black"><i> University of California Regents Scholar </i></a> <br>
