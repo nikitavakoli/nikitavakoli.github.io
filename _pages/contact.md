@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 <center>
-      <b><font size="+3">Find me on social media!</font> </b> <br>
+      <b><font size="+3">Contact Me</font> </b> <br>
       <img src="/images/avatar.png" alt="home_logo" width="200" height="200">
 </center>
 
@@ -23,7 +23,8 @@ author_profile: false
 </body>
 
 <br>
-💌 : <b>nikitava@usc.edu</b>
+<br>
+💌 <b>nikitava@usc.edu</b>
 
 </center>
 
