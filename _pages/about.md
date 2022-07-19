@@ -2,6 +2,7 @@
 title:  About
 page_title: About
 layout: single
+classes: wide
 permalink: /about/
 author_profile: false
 comments: false
