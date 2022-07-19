@@ -1,11 +1,16 @@
 ---
+title:  About
+page_title: About
 layout: single
 permalink: /about/
 author_profile: false
+comments: false
 ---
-<center>
-<img src="/images/banner.png" alt="home_logo" width="900" height="900">
-</center>
 
+Hey stranger
 
-Hi there
+Thanks for visiting my blog, I really appreciate it!
+
+I've started this site as an experiment, mainly to practice putting my work 
+into plain language that readers of all fields could understand, but also as 
+a chance to meet and connect with like-minded people.
