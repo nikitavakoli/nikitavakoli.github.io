@@ -5,7 +5,8 @@ author_profile: false
 ---
 
 <center>
-      Find me on social media! 
+      <font size="+3">Find me on social media!</a>
+      <img src="/images/avatar.png" alt="home_logo" width="200" height="200">
 </center>
 
 
@@ -21,7 +22,7 @@ author_profile: false
 </body>
 
 <hr>
-Email 💌 nikitava@usc.edu
+Email 💌 : nikitava@usc.edu
 
 </center>
 
