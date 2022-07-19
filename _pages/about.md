@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about/
-author_profile: true
+author_profile: false
 ---
 <p>
 <img src="/images/uscMono.png" alt="usc_logo" width="240" height="240">
