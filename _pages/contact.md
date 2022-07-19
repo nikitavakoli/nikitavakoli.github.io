@@ -9,6 +9,7 @@ author_profile: false
       <img src="/images/avatar.png" alt="home_logo" width="200" height="200">
 </center>
 
+<br>
 
 <header>
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/vaakash/socializer@2f749eb/css/socializer.min.css">
