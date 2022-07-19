@@ -4,4 +4,4 @@ permalink: /cv/
 author_profile: false
 ---
 
-Link to my CV:
+<embed src="/pdfs/NT_Curricula_Vitae.pdf" width="800px" height="2100px" />
