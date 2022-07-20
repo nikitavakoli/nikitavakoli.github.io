@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: /pdfs/NT_Curricula_Vitae.pdf
+    url: /assets/docs/cv-nikitavakoli.pdf
   - title: "News"
     url: /news/
   - title: "Blog"
