@@ -32,4 +32,4 @@ Project: Constraint-based modeling of cancer and stromal cells
 <hr>
 
 <b>Skills:</b> <br>
-<img src="/images/skillsbanner.png" alt="skills" width="500" height="500">
+<font color="MediumVioletRed"> <b>Languages:</b> Python, MATLAB, C/C++ </font> <br>
