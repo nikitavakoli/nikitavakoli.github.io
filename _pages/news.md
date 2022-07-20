@@ -9,7 +9,7 @@ author_profile: false
 <h6 class="remove-whitespace">May 2022</h6>
 <p style="font-size:16px">I won my first poster award from the  <a href="https://www.eitm.org/">Ellison Institute of Transformative Medicine</a>'s graduate student poster session! I'm proud to be a collaborator of EITM and will be returning in the Fall to give a talk about my research!</p>
 
-<center><img src="/images/poster.png" alt="poster_session" width="350" height="250"></center>
+<center><img src="/images/poster.png" alt="poster_session" width="400" height="150"></center>
 
 <h6 class="remove-whitespace">October 2021</h6>
 <p style="font-size:16px">I was elected into the publications board committee for the <a href="https://www.smb.org/">Society of Mathematical Biology</a>. I'm very excited to be working with other great people in my field across 5 different time zones to work on the SMB website.</p>
