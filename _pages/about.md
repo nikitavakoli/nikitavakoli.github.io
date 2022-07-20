@@ -32,4 +32,9 @@ Project: Constraint-based modeling of cancer and stromal cells
 <hr>
 
 <b>Skills:</b> <br>
-<font color="MediumVioletRed"> <b>Languages:</b> Python, MATLAB, C/C++ </font> <br>
+<font color="MediumVioletRed"> <b>• Languages:</b> Python, MATLAB, C/C++, bash </font> <br>
+
+<font color="MediumVioletRed"> <b>• Web Dev:</b> HTML5, CSS3, Ruby on Rails </font> <br>
+
+<font color="MediumVioletRed"> <b>• Other:</b> Git, LaTeX, Parallel Computing (openMP, CUDA, slurm), constraint-based modeling </font> <br>
+
