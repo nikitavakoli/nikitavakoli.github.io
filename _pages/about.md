@@ -13,7 +13,9 @@ author_profile: false
 
 <hr>
 
-<b>Research:</b> Stromal cells have long been known to impact and alter the metabolism of cancer cells in the colorectal tumor microenvironment. The exact mechanisms and dependencies, however, remain under question. To gain insight into this complex biological mechanism, we implement a <font color="thistle"><b>systems biology approach</b></font> by formulating experimental and metabolomics data in a constraint-based modeling system. This allows us to predict central carbon metabolism fluxes in addition to performing model perturbations (such as targeted drug knockouts) to predict patient outcomes. These flux predictions are also integrated into multi-scale system softwares (such as PhysiCell) to observe 3D constructions of the tumor microenvironment. This work is done using the openCOBRA software and is funded by the NIH U01.<br>
+<b>Research:</b> Stromal cells have long been known to impact and alter the metabolism of cancer cells in the colorectal tumor microenvironment. The exact mechanisms and dependencies, however, remain under question. To gain insight into this complex biological mechanism, we implement a <font color="thistle"><b>systems biology approach</b></font> by formulating experimental and metabolomics data in a constraint-based modeling system. This allows us to predict central carbon metabolism fluxes in addition to performing model perturbations (such as targeted drug knockouts) to predict patient outcomes. These flux predictions are also integrated into multi-scale system softwares (such as PhysiCell) to observe 3D constructions of the tumor microenvironment. This work is done using the openCOBRA software and is funded by the NIH U01.
+<br/>
+<br> 
 <b>Research Interests:</b> Metabolic engineering, constraint-based modeling, computational science, mathematical oncology, machine learning  
 
 <hr>
