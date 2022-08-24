@@ -5,6 +5,9 @@ author_profile: false
 ---
 <h2 class="remove-whitespace">News</h2>
 
+<h6 class="remove-whitespace">August 2022</h6>
+<p style="font-size:16px">I will be joining <a href="https://vgsa.usc.edu/">VGSA</a>as a Biomedical Engineering Senator for the 2022-23 academic school year! I'm excited to be contributing to graduate student life here at USC, and strengthening our department's close bond even more!</p>
+
 
 <h6 class="remove-whitespace">May 2022</h6>
 <p style="font-size:16px">I won my first poster award from the  <a href="https://www.eitm.org/">Ellison Institute of Transformative Medicine</a>'s graduate student poster session! I'm proud to be a collaborator of EITM and will be returning in the Fall to give a talk about my research!</p>
