@@ -4,9 +4,10 @@ permalink: /about/
 author_profile: false
 ---
 <center>
-<img src="/images/IMG_0416.PNG" alt="home_pic" width="250" height="250">
+<img src="/images/IMG_0416.PNG" alt="home_pic" width="350" height="350">
 </center>
 
+<br>
 
 <center><p style="font-size:16px"><i>Thanks for visiting my web portfolio! I'm a 2nd year Ph.D. Student at the University of Southern California studying <b>Biomedical Engineering</b>. I work with Dr. Stacey Finley in the Computational Systems Biology Laboratory. I am passionate about bridging the gap between <b>Biology, Mathematics and Computer Science.</b></i></p>
 </center>
