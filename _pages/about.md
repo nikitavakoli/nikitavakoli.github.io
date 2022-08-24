@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: false
 ---
 <center>
-<img src="/images/IMG_0416.PNG" alt="home_pic" width="500" height="500">
+<img src="/images/IMG_0416.PNG" alt="home_pic" width="250" height="250">
 </center>
 
 
