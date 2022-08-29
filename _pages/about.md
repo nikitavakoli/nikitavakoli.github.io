@@ -17,7 +17,6 @@ author_profile: false
 <b>Research:</b> Cancer-associated fibroblasts have long been known to impact and alter the <font color="tomato"><b>metabolism of colorectal cancer cells</b></font> in the tumor microenvironment. The exact mechanisms and dependencies, however, remain under question. To gain insight into this complex biological mechanism, we implement a <font color="tomato"><b>systems biology approach</b></font> by formulating experimental and metabolomics data in a <font color="tomato"><b>constraint-based model</b></font>. This allows for accurate <font color="tomato"><b>predictions of flux distributions</b></font> in various metabolic pathways. We can also  <font color="tomato"><b>simulate perturbations</b></font> in the model, such as targeted reaction knockdowns that emulate clinical drug administration. These flux predictions are also integrated into PhysiCell, a <font color="tomato"><b>multi-scale systems</b></font> software that allows us to observe 3D constructions of the tumor microenvironment.
 <br/>
 <br> 
-<b>Research Interests:</b> Metabolic engineering, constraint-based modeling, computational science, mathematical oncology, machine learning  
 
 <hr>
 
