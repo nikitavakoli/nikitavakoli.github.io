@@ -6,7 +6,7 @@ author_profile: false
 <h2 class="remove-whitespace">News</h2>
 
 <h6 class="remove-whitespace">August 2022</h6>
-<p style="font-size:16px">I will be joining <a href="https://vgsa.usc.edu/">VGSA</a> as a Biomedical Engineering Senator for the 2022-23 academic school year! I'm excited to be contributing to graduate student life here at USC, and strengthening our department's close bond even more!</p>
+<p style="font-size:16px">I've been elected into <a href="https://vgsa.usc.edu/">VGSA</a> as a Biomedical Engineering Senator for the 2022-23 academic school year. I'm looking forward to contributing to graduate student like at USC Viterbi and continuing to cultivate our department's close bond. </p>
 
 
 <h6 class="remove-whitespace">May 2022</h6>
