@@ -6,6 +6,7 @@ author_profile: false
 
 <center>
       <b><font size="+3">Contact Me</font> </b> <br>
+      <br>
       <img src="/images/circle_contact.png" alt="home_logo" width="300" height="300">
 </center>
 
