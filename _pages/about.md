@@ -24,8 +24,8 @@ author_profile: false
 <p>
 <img src="/images/uscMono.png" alt="usc_logo" width="200" height="200">
 <br>
-<font color="darkred"> • Doctor of Philosophy (Ph.D.), 2026 (est.) </font> <br>
-<font color="darkred">  • Master of Science (M.S.), 2021 </font>  <br>
+• Doctor of Philosophy (Ph.D.), 2026 (est.) <br>
+• Master of Science (M.S.), 2021  <br>
 Project: Constraint-based modeling of cancer and stromal cells
 </p>
 <p>
