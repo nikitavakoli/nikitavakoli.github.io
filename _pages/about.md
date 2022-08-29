@@ -31,9 +31,8 @@ Project: Constraint-based modeling of cancer and stromal cells
 <p>
 <img src="/images/ucla.png" alt="ucla_logo" width="170" height="170">
 <br>
-• Bachelor of Arts (B.A.), 2018 <br> </font>
+• Bachelor of Arts (B.A.), 2018 <br> 
 • <a href="https://prospective-ugstudents-ucla.academicworks.com/opportunities/334"><i> University of California Regents Scholar </i></a> <br>
 <hr>
 
-
-<h3> <a href="/assets/docs/cv- nikitavakoli.pdf"> Link to my full CV </a> </h3>
+<a href="/assets/docs/cv- nikitavakoli.pdf"> Link to my full CV </a> 
