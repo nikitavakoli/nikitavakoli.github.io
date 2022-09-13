@@ -32,7 +32,7 @@ Project: Constraint-based modeling of cancer and stromal cells
 <hr>
 <b>Leadership & Campus Involvement:</b>
 As a developing scientist and engineer, I find leadership and networking skills a necessity. As such,I am involved in several different organizations and programs actively on my campus: <br>
-
+<b><font size="-1">Viterbi Graduate Student Association (VGSA).</font></b> VGSA is 
 
 
 
