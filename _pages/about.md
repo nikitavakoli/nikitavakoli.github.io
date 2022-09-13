@@ -32,7 +32,10 @@ Project: Constraint-based modeling of cancer and stromal cells
 <hr>
 <b>Leadership & Campus Involvement:</b> 
 As a developing scientist and engineer, I find leadership and networking skills a necessity. As such, I am involved in several different organizations and programs actively on my campus: <br>
-<b><font size="-0.5">Viterbi Graduate Student Association (VGSA).</font></b> VGSA is 
+<font size="-0.5"><b>Viterbi Graduate Student Association (VGSA).</b> VGSA is a student-run student council catered to the graduate students within the school of engineering. I serve as a BME senator where I help organize and run events in collaboration with other departments and as a whole. I also serve as a VGSA representative on the USC Graduate Student Government (GSG), where I have a similar role but on a larger scale with the entire graduate student body at USC.  <br>
+<b>Convergent STEM (cSTEM).</b> Here, 
+
+</font>
 
 
 
