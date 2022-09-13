@@ -30,15 +30,14 @@ Project: Constraint-based modeling of cancer and stromal cells
 • Bachelor of Arts (B.A.), 2018 <br> 
 • <a href="https://prospective-ugstudents-ucla.academicworks.com/opportunities/334"><i> University of California Regents Scholar </i></a> <br>
 <hr>
-<b>Leadership & Campus Involvement:</b>
-As a developing scientist and engineer, I find leadership and networking skills a necessity. As such,I am involved in several different organizations and programs actively on my campus: <br>
-<b><font size="-1">Viterbi Graduate Student Association (VGSA).</font></b> VGSA is 
+<b>Leadership & Campus Involvement:</b> 
+As a developing scientist and engineer, I find leadership and networking skills a necessity. As such, I am involved in several different organizations and programs actively on my campus: <br>
+<b><font size="-0.5">Viterbi Graduate Student Association (VGSA).</font></b> VGSA is 
 
 
 
 
-
-
-
+<br>
+<br>
 <center> <a href="/assets/docs/cv- nikitavakoli.pdf"  style="color: tomato"> Link to my full CV! </a> </center>
 
