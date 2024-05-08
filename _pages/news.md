@@ -6,7 +6,7 @@ author_profile: false
 <h2 class="remove-whitespace">News</h2>
 
 <h6 class="remove-whitespace">April 2024</h6>
-<p style="font-size:16px">I am passed my Ph.D. qualifying exam and transformed from a Ph.D. student to a Ph.D. candidate! I'm very happy to have passed this milestone in my Ph.D. journey successfully and had a lot of insightful input from my exam committee members. On to year 4!</p>
+<p style="font-size:16px">I passed my Ph.D. qualifying exam and transformed from a Ph.D. student to a <bold><emph>Ph.D. candidate!</emph></bold> I'm very happy to have passed this milestone in my Ph.D. journey successfully and had a lot of insightful input from my exam committee members. On to year 4!</p>
 <center><img src="/images/qual_exam.png" alt="qaul_exam" width="400" height="1"></center>
 
 
