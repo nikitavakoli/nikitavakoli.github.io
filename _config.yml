@@ -17,9 +17,9 @@ minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Niki Tavakoli"
+title                    : "Niki Tavakoli, Ph.D."
 title_separator          : "-"
-subtitle                 : "Engineering Ph.D. Student"
+subtitle                 : "Postdoctoral Scientist"
 name                     : "<b>Niki Tavakoli</b>"
 description              : "My Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -97,9 +97,9 @@ author:
   #name             : "Niki Tavakoli"
   #bio              : "Engineer in the making, inspired researcher, and motivated scientist."
   location         : "Los Angeles, CA"
-  avatar           : "/images/beach_pic.jpg"
-  bio              : "Grad student, motivated researcher, inspired scientist."
-  email            : "nikitava@usc.edu"
+  avatar           : ""
+  bio              : ""
+  email            : "ntava96@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -113,12 +113,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nikitavakoli"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://www.facebook.com/nikitavak0li"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/niki_tavakoli/"
+
 
 # Site Footer
 footer:
