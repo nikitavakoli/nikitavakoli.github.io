@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /assets/docs/cv- nikitavakoli.pdf
   - title: "Publications"
     url: /publications/
