@@ -9,7 +9,6 @@ author_profile: false
       <b><font size="+3">Contact Me</font> </b>
 </center>
 
-
 <hr>
 <header>
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/vaakash/socializer@2f749eb/css/socializer.min.css">
@@ -17,7 +16,10 @@ author_profile: false
     <style>
         .socializer .sr-twitter a,
         .socializer .sr-twitter a:visited,
-        .socializer .sr-twitter a:hover {
+        .socializer .sr-twitter a:hover,
+        .socializer .sr-github a,
+        .socializer .sr-github a:visited,
+        .socializer .sr-github a:hover {
             background-color: #000 !important;
             border-color: #000 !important;
         }
