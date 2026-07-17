@@ -6,6 +6,8 @@ main:
     url: /assets/docs/cv- nikitavakoli.pdf
   - title: "Publications"
     url: /publications/
+  - title: "News"
+    url: /news/
   - title: "Contact"
     url: /contact/
 
